@@ -1,1 +1,1 @@
-# miden-tutorials
+# miden-tutorial
