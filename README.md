@@ -1,1 +1,1 @@
-# miden-devbox
+# miden-workshop
