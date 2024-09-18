@@ -1,2 +1,2 @@
-# 🛠️ miden-workshop
-a repo to get started with miden 
+# 🛠️ dapp-workshop
+a repo to get started with building dapps 
