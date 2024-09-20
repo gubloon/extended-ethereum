@@ -1,2 +1,2 @@
 # ⛓️🛠️ dapp-workshop
-a repo to get started with building dapps 
+a library to get started with building dapps 
