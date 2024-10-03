@@ -1,2 +1,2 @@
 # [📦] zk workshop
-get started with building apps with zero knowledge proofs 
+get started with zero knowledge proofs 
