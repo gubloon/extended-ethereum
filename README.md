@@ -1,2 +1,2 @@
-# ⛓️⚙️ dapp workshop
-a library to get started with building dapps 
+# ⛓️⚙️ zk workshop
+get started with building apps with zero knowledge proofs 
